@@ -2,6 +2,7 @@ const usuarios = [
     { id: 1, nombre: "1234", contraseña: "1234", fechaVencimiento: "2024-06-30" },
     { id: 2, nombre: "andresvpn", contraseña: "1088829889", fechaVencimiento: "2024-12-31" },
     { id: 3, nombre: "elver", contraseña: "elver", fechaVencimiento: "2024-06-25" },
+    { id: 4, nombre: "pinvirtual", contraseña: "pinvirtual", fechaVencimiento: "2024-06-25" },
     // Agrega más usuarios si es necesario
 ];
 
